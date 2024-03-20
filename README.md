@@ -1,3 +1,3 @@
-SHOE-STORE               
-DEMO
-![Demo Screen] (./img.png)
+# SHOE-STORE               
+# DEMO
+![Demo Screen] ('./img.png')
